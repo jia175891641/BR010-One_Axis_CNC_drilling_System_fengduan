@@ -1,5 +1,6 @@
 # 测试程序
-
+# 简介
+# 打孔流程
 ![image](https://github.com/jia175891641/BR010_-/blob/master/%E6%8D%95%E8%8E%B7.PNG)
 可编程控制器系统
 # 简介
