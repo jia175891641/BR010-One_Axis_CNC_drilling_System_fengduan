@@ -1,4 +1,7 @@
-# 测试程序
+# 程序下载
+  点击 右上方 绿色的  【Clone or download】 再点 Download Zip 下载后解压 
+  直接双击 .bent  文件，上位机[此处下载]会自动识别或打开，如果需要烧录进控制器[点击购买]，
+  还需要购买烧录器[点击购买],烧录器驱动[点击下载]
 # 简介
 # 打孔流程
 ![image](https://github.com/jia175891641/BR010_-/blob/master/%E6%8D%95%E8%8E%B7.PNG)
