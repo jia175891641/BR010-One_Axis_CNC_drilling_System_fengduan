@@ -35,4 +35,4 @@ BR010脱机编程方法：
 #上位机下载  
 [易语言2.0](http://www.btcnc.net/ "点击前往")  
 #下载器驱动下载(CH340串口驱动)
-[在 Markdown 中设置链接由新窗口打开](http://www.jianshu.com/p/8abc34b6a190)
+<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
