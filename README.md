@@ -26,7 +26,7 @@ BR010在线编程方法：
 BR010脱机编程方法：   
 [![Watch the video](https://github.com/jia175891641/BR010-VB-/blob/master/%E6%8D%95%E8%8E%B7.PNG)](https://cloud.video.taobao.com//play/u/140795238/p/1/e/6/t/1/50066686709.mp4)  
 
-淘宝店铺(右键新窗口中打开)：[BR010可编程一体机](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-4148446461.35.4c0494c0LgyZdJ&id=522079098086"右键再点另存为")  
+淘宝店铺(右键新窗口中打开)：[BR010可编程一体机](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-4148446461.35.4c0494c0LgyZdJ&id=522079098086)  
 官方网站(右键新窗口中打开):[浙江浦江奔腾数控设备有限公司](http://www.btcnc.net/ "点击前往")  
 上位机下载(右键另存为)：[易语言2.0](http://www.btcnc.net/web/2moto/Downloads/softBR010.zip "右键再点另存为")  
 使用说明书:[纸质说明书](http://www.btcnc.net/web/2moto/Downloads/%E3%80%90BR010%E3%80%91%E5%BF%AB%E9%80%9F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97%E4%B8%8E%E5%AE%9E%E4%BE%8B.doc)  
