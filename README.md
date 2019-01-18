@@ -30,8 +30,8 @@ BR010脱机编程方法：
 
 [![Watch the video](https://github.com/jia175891641/BR010-VB-/blob/master/%E6%8D%95%E8%8E%B7.PNG)](https://cloud.video.taobao.com//play/u/140795238/p/1/e/6/t/1/50066686709.mp4)
 
-##官方网站（建议使用电信宽带访问）  
+#官方网站（建议使用电信宽带访问）  
 [浙江浦江奔腾数控设备有限公司](http://www.btcnc.net/ "点击前往")  
-##上位机下载  
+#上位机下载  
 [易语言2.0](http://www.btcnc.net/ "点击前往")  
-##下载器驱动下载(CH340串口驱动)
+#下载器驱动下载(CH340串口驱动)
