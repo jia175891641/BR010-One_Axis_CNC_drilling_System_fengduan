@@ -4,8 +4,13 @@
 用户菜单，而不需要像G代码控制器，用户修改一个简单的速度，必须去修改源代码，此控制器使用简单，性价比高，性能稳定，全国各地都有使用者,部分已出口，稳定性经得起考验!!
 现在开源，供大家学习和参考！！
 #基础教程
-如第一次接触此控制器，请先看完一下教程：
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://cloud.video.taobao.com//play/u/140795238/p/1/e/6/t/1/50066686709.mp4)
+如第一次接触此控制器，请先看完以下3个教程，尤其是在线编程方法：
+BR010基本功能介绍：
+
+BR010在线编程方法：
+
+BR010脱机编程方法：
+[![Watch the video](https://github.com/jia175891641/BR010-VB-/blob/master/%E6%8D%95%E8%8E%B7.PNG)](https://cloud.video.taobao.com//play/u/140795238/p/1/e/6/t/1/50066686709.mp4)
 # 程序预览
 ![image](https://github.com/jia175891641/BR010-One_Axis_CNC_drilling_System_fengduan/blob/master/菜单配置.PNG)
 ![image](https://github.com/jia175891641/BR010-One_Axis_CNC_drilling_System_fengduan/blob/master/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.PNG)
